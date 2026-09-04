@@ -334,5 +334,5 @@ app.post("/api/grievances", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`MoSJE / MARG demo backend running on port ${PORT}`);
+  console.log(`🏛️ MoSJE / Margdarshak Government Portal backend running on port ${PORT}`);
 });

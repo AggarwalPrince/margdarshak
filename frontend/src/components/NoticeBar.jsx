@@ -4,7 +4,7 @@ const NOTICES = [
   "📢 Beneficiaries are advised to keep their Aadhaar-linked mobile number ready for OTP verification.",
   "⚡ Concessional interest rate of 4.0% p.a. locked for Educational Loan Scheme (v2) for Academic Year 2026–27.",
   "✅ Mahila Samriddhi Yojana (MSY): Moratorium extended to 6 months for women-led micro enterprises.",
-  "ℹ️ Please apply only through empanelled SCAs and Public Sector Banks listed on the MARG portal. No middleman fees are charged.",
+  "ℹ️ Please apply only through empanelled SCAs and Public Sector Banks listed on the Margdarshak portal. No middleman fees are charged.",
   "📋 Special Credit Drive active across 12 States & UTs for artisan clusters and rural nano-enterprises.",
 ];
 

@@ -1,4 +1,4 @@
-# Samarth — MoSJE Demo Frontend
+# Margdarshak — MoSJE / NSFDC Demo Frontend
 
 React + Vite single-page app covering the full beneficiary journey (language →
 OTP login → voice input → scheme matcher → EMI calculator → nearby partners →

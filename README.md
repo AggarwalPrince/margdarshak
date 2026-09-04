@@ -1,4 +1,4 @@
-# Samarth — SIH Demo (MoSJE / NSFDC Digital Loan Platform)
+# Margdarshak (मार्गदर्शक) — SIH Demo (MoSJE / NSFDC Concessional Credit Portal)
 
 Two deployable pieces:
 

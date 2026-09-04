@@ -3,7 +3,7 @@ import { api } from "../api";
 
 const FAQS = [
   {
-    q: "Who is eligible to apply for concessional loan schemes under NSFDC / MARG?",
+    q: "Who is eligible to apply for concessional loan schemes under NSFDC / Margdarshak?",
     a: "Any Indian citizen belonging to the Scheduled Caste (SC) community whose annual family income is below ₹5,00,000 per annum is eligible for concessional refinance schemes. Specific criteria such as age (minimum 18 years) and project type apply depending on the scheme selected.",
   },
   {
@@ -11,8 +11,8 @@ const FAQS = [
     a: "No. Under the Micro Finance Scheme (MFS) and Mahila Samriddhi Yojana (MSY), loans up to ₹1,40,000 – ₹1,50,000 are collateral-free, backed by government refinance guarantee and hypothecation of assets created.",
   },
   {
-    q: "Does MARG charge any processing fee or service fee for scheme matching or application?",
-    a: "Absolutely not. The MARG portal and its conversational matching engine are 100% free of charge as a public service of the Government of India. Citizens are advised never to pay money to private agents or intermediaries.",
+    q: "Does Margdarshak charge any processing fee or service fee for scheme matching or application?",
+    a: "Absolutely not. The Margdarshak portal and its conversational matching engine are 100% free of charge as a public service of the Government of India. Citizens are advised never to pay money to private agents or intermediaries.",
   },
   {
     q: "How does the moratorium period work?",
@@ -20,7 +20,7 @@ const FAQS = [
   },
   {
     q: "Why are some banks or channel partner branches not shown in my area?",
-    a: "MARG incorporates an automated credit health safeguard: only channel partners with a Non-Performing Asset (NPA) ratio below 10% and active lending quotas are recommended. This protects beneficiaries from uncooperative or financially distressed branches.",
+    a: "Margdarshak incorporates an automated credit health safeguard: only channel partners with a Non-Performing Asset (NPA) ratio below 10% and active lending quotas are recommended. This protects beneficiaries from uncooperative or financially distressed branches.",
   },
 ];
 

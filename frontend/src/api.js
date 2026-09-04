@@ -1,4 +1,4 @@
-// Dual-mode API client for MARG / NSFDC Government Portal.
+// Dual-mode API client for Margdarshak / NSFDC Government Portal.
 // Connects to Render backend if available; falls back transparently to in-browser demo data
 // so video recordings and judge evaluations NEVER fail on cold-boot or network errors.
 
@@ -448,7 +448,7 @@ async function callOrFallback(path, options, mockFn) {
 
 export const api = {
   health: async () => {
-    return callOrFallback("/api/health", {}, () => ({ ok: true, service: "marg-portal-local-demo" }));
+    return callOrFallback("/api/health", {}, () => ({ ok: true, service: "margdarshak-portal-local-demo" }));
   },
 
   sendOtp: async (mobile) => {

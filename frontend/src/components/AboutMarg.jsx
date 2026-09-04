@@ -44,9 +44,9 @@ export default function AboutMarg({ setMode }) {
     <div className="gov-page-container">
       <div className="page-header">
         <span className="eyebrow-pill">National Digital Initiative</span>
-        <h1>About MARG — Marginalized Assistance &amp; Resource Gateway</h1>
+        <h1>About Margdarshak — National Concessional Credit &amp; Guidance Gateway</h1>
         <p>
-          MARG is a unified, citizen-centric digital gateway conceived under the{" "}
+          Margdarshak (मार्गदर्शक) is a unified, citizen-centric digital gateway conceived under the{" "}
           <strong>Ministry of Social Justice &amp; Empowerment (MoSJE)</strong> and implemented in collaboration with the{" "}
           <strong>National Scheduled Castes Finance &amp; Development Corporation (NSFDC)</strong>. It bridges the critical last-mile credit gap for marginalized communities across India.
         </p>
@@ -78,7 +78,7 @@ export default function AboutMarg({ setMode }) {
       {/* Objectives */}
       <div className="panel" style={{ marginBottom: 32 }}>
         <h3 className="panel-title" style={{ fontSize: 18, marginBottom: 16 }}>
-          Core Objectives of the MARG Gateway
+          Core Objectives of the Margdarshak Gateway
         </h3>
         <ul className="check-list">
           {OBJECTIVES.map((obj, i) => (
@@ -112,7 +112,7 @@ export default function AboutMarg({ setMode }) {
           Institutional Architecture &amp; Delivery Ecosystem
         </h3>
         <p style={{ color: "var(--muted)", fontSize: 14.5, lineHeight: 1.65 }}>
-          MARG is not a private NBFC or a commercial credit broker. It is a statutory apex delivery mechanism operating directly within the framework of the Government of India:
+          Margdarshak is not a private NBFC or a commercial credit broker. It is a statutory apex delivery mechanism operating directly within the framework of the Government of India:
         </p>
 
         <div className="architecture-stepper">

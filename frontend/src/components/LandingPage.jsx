@@ -104,7 +104,7 @@ export default function LandingPage({ lang, setMode, onStartJourney }) {
         <div className="gov-hero-content">
           <div className="gov-hero-pill">
             <span className="gov-emblem-small">🇮🇳</span>
-            <span>MARG — Marginalized Assistance &amp; Resource Gateway</span>
+            <span>MARGDARSHAK — मार्गदर्शक National Concessional Credit &amp; Guidance Gateway</span>
           </div>
           <h1 className="gov-hero-title">
             Unified Access to Concessional Financial Assistance
@@ -173,7 +173,7 @@ export default function LandingPage({ lang, setMode, onStartJourney }) {
       <section className="gov-services-section">
         <div className="section-title-wrap">
           <span className="section-eyebrow">DIRECT CITIZEN SERVICES</span>
-          <h2>Digital Services on the MARG Portal</h2>
+          <h2>Digital Services on the Margdarshak Portal</h2>
           <div className="title-divider" />
         </div>
 
@@ -198,10 +198,10 @@ export default function LandingPage({ lang, setMode, onStartJourney }) {
         </div>
       </section>
 
-      {/* MARG at a Glance Statistics Strip */}
-      <section className="gov-stats-strip" aria-label="MARG Statistics">
+      {/* Margdarshak at a Glance Statistics Strip */}
+      <section className="gov-stats-strip" aria-label="Margdarshak Statistics">
         <div className="stats-strip-header">
-          <h3>MARG AT A GLANCE</h3>
+          <h3>MARGDARSHAK AT A GLANCE</h3>
           <span className="stats-strip-tag">Illustrative Demo Figures</span>
         </div>
         <div className="stats-grid">

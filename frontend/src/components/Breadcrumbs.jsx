@@ -1,6 +1,6 @@
 const MODE_LABELS = {
   landing: "Home",
-  about_marg: "About MARG",
+  about_marg: "About Margdarshak",
   about: "Statutory Authority (NSFDC)",
   leadership: "Governance & Ministerial Oversight",
   officials: "Officials Directory",

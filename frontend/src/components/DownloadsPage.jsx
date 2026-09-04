@@ -45,7 +45,7 @@ const DOWNLOADABLE_DOCUMENTS = [
     id: "doc_5",
     title: "Mandatory Document Checklist for Beneficiaries",
     category: "Information Guides",
-    code: "MARG-CKL-01",
+    code: "MD-CKL-01",
     format: "PDF",
     size: "190 KB",
     date: "01 Sep 2026",
@@ -71,7 +71,7 @@ export default function DownloadsPage() {
     setDownloadingId(doc.id);
     setTimeout(() => {
       // Generate realistic mock text file download
-      const content = `GOVERNMENT OF INDIA\nMINISTRY OF SOCIAL JUSTICE & EMPOWERMENT\nNSFDC / MARG PORTAL\n\nDocument: ${doc.title}\nDocument Code: ${doc.code}\nCategory: ${doc.category}\nDate of Issue: ${doc.date}\nOfficial Status: Authorized for Public Access\n\nNotice: This is a sample official document downloaded from the MARG Portal for Smart India Hackathon (SIH) prototype demonstration.\n`;
+      const content = `GOVERNMENT OF INDIA\nMINISTRY OF SOCIAL JUSTICE & EMPOWERMENT\nNSFDC / MARGDARSHAK PORTAL\n\nDocument: ${doc.title}\nDocument Code: ${doc.code}\nCategory: ${doc.category}\nDate of Issue: ${doc.date}\nOfficial Status: Authorized for Public Access\n\nNotice: This is a sample official document downloaded from the Margdarshak Portal for Smart India Hackathon (SIH) prototype demonstration.\n`;
       const blob = new Blob([content], { type: "text/plain" });
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");

@@ -35,7 +35,7 @@ export default function PartnersDirectoryPage({ onApplyAtPartner }) {
         <span className="eyebrow-pill">Lending Network</span>
         <h1>Empanelled Channel Partner Institutions</h1>
         <p>
-          NSFDC channels credit through accredited State Channelising Agencies (SCAs), Public Sector Banks, Regional Rural Banks, and NBFC-MFIs. To safeguard public funds and beneficiary dignity, MARG continuously tracks branch health (NPA ratio &lt; 10%) and remaining refinance quotas.
+          NSFDC channels credit through accredited State Channelising Agencies (SCAs), Public Sector Banks, Regional Rural Banks, and NBFC-MFIs. To safeguard public funds and beneficiary dignity, Margdarshak continuously tracks branch health (NPA ratio &lt; 10%) and remaining refinance quotas.
         </p>
       </div>
 

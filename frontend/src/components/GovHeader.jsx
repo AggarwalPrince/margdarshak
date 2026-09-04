@@ -135,7 +135,7 @@ export default function GovHeader({
             style={{ cursor: "pointer" }}
             role="button"
             tabIndex={0}
-            aria-label="Return to MARG Home"
+            aria-label="Return to Margdarshak Home"
           >
             <ChakraIcon size={44} />
           </div>
@@ -158,11 +158,11 @@ export default function GovHeader({
             style={{ cursor: "pointer" }}
             role="button"
             tabIndex={0}
-            aria-label="Go to MARG homepage"
+            aria-label="Go to Margdarshak homepage"
           >
-            <div className="gov-identity-brand-name">MARG</div>
+            <div className="gov-identity-brand-name">MARGDARSHAK</div>
             <div className="gov-identity-brand-tag">
-              Marginalized Assistance &amp; Resource Gateway
+              मार्गदर्शक · National Concessional Credit &amp; Guidance Gateway
             </div>
           </div>
         </div>
@@ -222,7 +222,7 @@ export default function GovHeader({
                       className={`dropdown-item ${mode === "about_marg" ? "active" : ""}`}
                       onClick={() => go("about_marg")}
                     >
-                      About MARG Gateway
+                      About Margdarshak Gateway
                     </button>
                   </li>
                   <li>

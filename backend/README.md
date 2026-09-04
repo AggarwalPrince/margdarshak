@@ -1,4 +1,4 @@
-# MoSJE Demo Backend
+# Margdarshak — MoSJE / NSFDC Demo Backend
 
 Express API with in-memory sample data — no real database, no Bhashini/decision-tree
 API calls. Built purely for the SIH demo video.

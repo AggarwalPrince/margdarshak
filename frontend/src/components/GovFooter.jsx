@@ -12,13 +12,13 @@ export default function GovFooter({ setMode }) {
   return (
     <footer className="gov-footer" role="contentinfo">
       <div className="gov-footer-top">
-        {/* Col 1: About MARG */}
+        {/* Col 1: About Margdarshak */}
         <div className="gov-footer-col">
-          <h4>ABOUT MARG</h4>
+          <h4>ABOUT MARGDARSHAK</h4>
           <ul>
             <li>
               <button type="button" onClick={() => go("about_marg")}>
-                About MARG Portal
+                About Margdarshak Portal
               </button>
             </li>
             <li>
@@ -167,7 +167,7 @@ export default function GovFooter({ setMode }) {
         </p>
 
         <p className="gov-footer-disclaimer">
-          <strong>Smart India Hackathon (SIH) Prototype Build:</strong> This portal is a working demonstration of the MARG platform developed for SIH jury presentation. Scheme rules, EMI amortisation algorithms, channel partner health routing, and Maker-Checker governance are fully simulated with realistic sample data without external API dependencies.
+          <strong>Smart India Hackathon (SIH) Prototype Build:</strong> This portal is a working demonstration of the Margdarshak platform developed for SIH jury presentation. Scheme rules, EMI amortisation algorithms, channel partner health routing, and Maker-Checker governance are fully simulated with realistic sample data without external API dependencies.
         </p>
 
         <p className="gov-footer-copyright">

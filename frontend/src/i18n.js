@@ -9,7 +9,7 @@ export const LANGUAGES = [
 
 const STRINGS = {
   en: {
-    appName: "Samarth",
+    appName: "Margdarshak",
     tagline: "NSFDC loan schemes, in your language.",
     getStarted: "Get started",
     mobileLabel: "Mobile number",
@@ -37,7 +37,7 @@ const STRINGS = {
     trackingId: "Your tracking ID",
   },
   hi: {
-    appName: "समर्थ",
+    appName: "मार्गदर्शक",
     tagline: "आपकी भाषा में एनएसएफडीसी ऋण योजनाएं।",
     getStarted: "शुरू करें",
     mobileLabel: "मोबाइल नंबर",
@@ -65,7 +65,7 @@ const STRINGS = {
     trackingId: "आपकी ट्रैकिंग आईडी",
   },
   mr: {
-    appName: "समर्थ",
+    appName: "मार्गदर्शक",
     tagline: "तुमच्या भाषेत एनएसएफडीसी कर्ज योजना.",
     getStarted: "सुरु करा",
     mobileLabel: "मोबाइल क्रमांक",
@@ -93,7 +93,7 @@ const STRINGS = {
     trackingId: "तुमचा ट्रॅकिंग आयडी",
   },
   ta: {
-    appName: "சமர்த்",
+    appName: "மார்க்தர்ஷக்",
     tagline: "உங்கள் மொழியில் NSFDC கடன் திட்டங்கள்.",
     getStarted: "தொடங்குங்கள்",
     mobileLabel: "மொபைல் எண்",

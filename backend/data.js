@@ -1,4 +1,4 @@
-// In-memory sample data for the MARG / NSFDC Government Portal demo.
+// In-memory sample data for the Margdarshak / NSFDC Government Portal demo.
 // Nothing here hits a real database or external API — resets whenever the server restarts.
 
 export const schemes = [
